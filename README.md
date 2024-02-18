@@ -24,7 +24,7 @@ The analysis explores various aspects of the conflict using the provided dataset
 
 ## Files Included
 - `fatalities.csv`: Dataset containing information on fatalities related to the Palestine-Israel conflict.
-- `analysis.py`: Python script for conducting the analysis. It includes code for importing libraries, reading the dataset, and performing analysis tasks.
+- `fatalities_analysis.py`: Python script for conducting the analysis. It includes code for importing libraries, reading the dataset, and performing analysis tasks.
 
 ## Results
 The results of the analysis, including visualizations and insights, will be available in the analysis output or presented within the Python script itself.
